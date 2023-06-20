@@ -1,0 +1,11 @@
+*.bam
+*.gz
+*.sorted
+*.vcf
+*.sam
+*.pileup
+*.bcf
+.snakemake
+*.fa
+*.fai
+
